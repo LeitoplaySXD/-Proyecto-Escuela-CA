@@ -1,0 +1,8 @@
+COMANDOS
+el (iframe) para reproducir videos dentro de una pagina
+ colocando el enlace 
+ el navegador ejecutara el controls(autoplay) 
+ solamente cuando se le agregue el (muted) -->
+ (required) se usa para definir que el dato 
+ de un formulario es un campo obligatorio
+  

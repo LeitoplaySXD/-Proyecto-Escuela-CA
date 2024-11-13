@@ -1,0 +1,24 @@
+
+  <!la (p) sirve para escribir parrafos-->
+    <! (strong) se usa para colocar palabras en negrilla -->
+    <! (em) sirve para escribir en cursiva con enfasis y (i) 
+        sirve para simplemente colocar en cursiva-->
+    <! la (u) sirve para subrayar y la (s) sirve para tachar-->]
+    <! (br) sirve para implementar el salto de linea -->
+
+    <! (href) sirve para crear enlaces y 
+     dentro de las comillas se pone el enlace --> 
+    <! en el caso de ser un enlace a un archivo interno 
+    lo que debemos hacer es refenciar el archivo dentro de las comillas con ctrl espacio -->
+    <! para abrir en enlace en una ventana nueva se usa (target blank)-->                               
+    <! (alt) sirve para colocar un mensaje en caso de que no pueda cargar la imagen -->
+    <! (width) para modificar el ancho de la imagen -->
+    <! (height) para modificar la altura de la imagen -->
+    <! se puede poner la imagen dentro de un enlace y que se convierta en el acceso al link -->
+
+      <! (input) para crear una entrada de datos en la web-->
+    <! (label) para nombrar el input-->
+    <! (placeholder) para llenar la barra dentro del input-->
+    <! (required) para indicar al html que el input es obligatorio-->
+
+
